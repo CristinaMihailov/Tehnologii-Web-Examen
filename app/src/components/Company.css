@@ -1,0 +1,43 @@
+  
+  .companie {
+      height: 200px;
+      width: 200px;
+      background-color:rgb(178, 138, 197);
+      margin: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-flow: row wrap;
+      padding: 10px;
+      border-radius: 25px;
+    }
+    
+    .companie .nume {
+      height: 50px;
+      width: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: rgb(178, 138, 197);
+    }
+  
+    .companie .data {
+      height: 50px;
+      width: 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: rgb(178, 138, 197);
+    }
+    
+    .movie .delete {
+      height: 30px;
+      width: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: rgb(178, 138, 197);
+    }
+  
+  
+   

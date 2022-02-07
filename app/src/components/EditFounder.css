@@ -1,0 +1,36 @@
+.founder-edit-form {
+    height: 210px;
+    width: 200px;
+    background-color: rgb(247, 144, 144);
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    padding: 10px;
+    border-radius: 25px;
+  }
+  
+  .founder-edit-form .edit-nume {
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .founder-edit-form .edit-rol {
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+   
+  .founder-edit-form .add {
+    height: 40px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

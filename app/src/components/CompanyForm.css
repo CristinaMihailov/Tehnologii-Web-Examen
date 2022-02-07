@@ -1,0 +1,36 @@
+.company-form {
+    height: 210px;
+    width: 200px;
+    background-color: rgb(247, 144, 144);
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    padding: 10px;
+    border-radius: 25px;
+  }
+  
+  .company-form .form-nume {
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .company-form .form-data {
+    height: 60px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+   .company-form .add {
+    height: 40px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
